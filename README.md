@@ -1,28 +1,23 @@
 
-
-### Hi there 👋 
-
-You can find me here :
-<p align="left">
-  <a href="https://www.linkedin.com/in/sanjay-aradhyamath/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sanjayam5320@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/437151324413362176"><img title="Discord" src="https://img.shields.io/badge/discord-ivory?style=for-the-badge&logo=discord&logoColor=blue"/></a>
-  
-<br>
- 
-## About Me
 ### Hi there 👋 , I'm Sanjay ..
-##
+
 <br>
 
 - 🔭 I’m currently an undergraduate student in India **an undergraduate student from India**
 - 🌱 I’m also a SDE at Camcom technologies **SDE at Camcom technologies**
 - 👩‍💻 I find my technical interests in **Artificial Intelligence, Backend Development , Open Source , Linux aand Workflow Tools**
-- 👍 Always looking for **project collaborations**
-- ### Loves :video_game:  :headphones: 
+- 👍 Always looking **collaborate**
+-  :ramen: :keyboard: :octocat: :video_game: :headphones: :zzz: 
  
  <br>
-  
+ 
+You can find me here :
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanjay-aradhyamath/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sanjayam5320@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/437151324413362176"><img title="Discord" src="https://img.shields.io/badge/discord-ivory?style=for-the-badge&logo=discord&logoColor=blue"/></a>
+ <br>
+ 
 ## Tech Stack
 
 <p align="left">
@@ -42,6 +37,4 @@ You can find me here :
 </p>
 
 
-
-![Sanjays Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=samz5320&show_icons=true&include_all_commits=true&theme=radical)
 
