@@ -4,9 +4,9 @@
 <br>
 
 - 🔭 I’m currently an undergraduate student in India **an undergraduate student from India**
-- 🌱 I’m also a SDE at Camcom technologies **SDE at Camcom technologies**
+- 🌱 I’m also an **SDE at Camcom technologies**
 - 👩‍💻 I find my technical interests in **Artificial Intelligence, Backend Development , Open Source , Linux aand Workflow Tools**
-- 👍 Always looking **collaborate**
+- 👍 Always looking **collaborate** on prjects , papers, workshops , meetups.
 -  :ramen: :keyboard: :octocat: :video_game: :headphones: :zzz: 
  
  <br>
