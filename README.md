@@ -6,7 +6,7 @@
 - 🔭 I’m currently an undergraduate student in India **an undergraduate student from India**
 - 🌱 I’m also an **SDE at Camcom technologies**
 - 👩‍💻 I find my technical interests in **Artificial Intelligence, Backend Development , Open Source , Linux aand Workflow Tools**
-- 👍 Always looking **collaborate** on projects , papers, workshops , meetups.
+- 👍 Always looking to **collaborate** on projects , papers, workshops , meetups.
 -  :ramen: :keyboard: :octocat: :video_game: :headphones: :zzz: 
  
  <br>
