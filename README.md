@@ -2,9 +2,8 @@
 ### Hi there 👋 , I'm Sanjay ..
 
 <br>
-
-- 🔭 I’m currently **an undergraduate student from India**
-- 🌱 I’m also an **SDE at Camcom technologies**
+- 🌱 I’m an **AI/ML Engineer @ Camcom Technologies**
+- 🔭 Also **Computer Engineering and Data Science undergrad from India**
 - 👩‍💻 I find my technical interests in **Artificial Intelligence, Backend Development , Open Source , Linux aand Workflow Tools**
 - 👍 Always looking to **collaborate** on projects , papers, workshops , meetups.
 -  :ramen: :keyboard: :octocat: :video_game: :headphones: :zzz: 
