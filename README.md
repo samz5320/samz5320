@@ -2,7 +2,8 @@
 ### Hi there 👋 , I'm Sanjay ..
 
 <br>
-- 🌱 I’m an **AI/ML Engineer @ Camcom Technologies**
+
+- 🌱 I’m an **AI/ML Engineer @ Camcom Technologies** 
 - 🔭 Also **Computer Engineering and Data Science undergrad from India**
 - 👩‍💻 I find my technical interests in **Artificial Intelligence, Backend Development , Open Source , Linux aand Workflow Tools**
 - 👍 Always looking to **collaborate** on projects , papers, workshops , meetups.
