@@ -27,7 +27,7 @@
     <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/>
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-PyTorch?style=for-the-badge&logo=pytorch&logoColor=orange&color=ivory"/>
-    <img alt="Lightning" src="https://img.shields.io/badge/PyTorch%20Lightning-PyTorch%20Lightning?style=for-the-badge&logo=pytorchlightning&logoColor=white&color=792ee5"/>
+    <img alt="Lightning" src="https://img.shields.io/badge/Lightning-PyTorch%20Lightning?style=for-the-badge&logo=pytorchlightning&logoColor=white&color=792ee5"/>
     <!-- Backend & Frameworks -->
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img alt="Triton" src="https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
